@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lampadina_17</h1>
+<h1 align="left">Hi I'm Lampadina_17</h1>
 <h3 align="left">A passionate developer from Italy</h3>
 
 - 🔭 I’m currently working on **LightObfuscator**
