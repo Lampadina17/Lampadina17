@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/discord.gg/aerXnBe" target="blank"><img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/MtqdQjefx5" target="blank"><img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/MtqdQjefx5" target="blank"><img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/Morpheus.png" alt="discord.gg/MtqdQjefx5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
