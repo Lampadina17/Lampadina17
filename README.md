@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.youtube.com/@Lampadina_17" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="first channel" height="80" width="80" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="first channel" height="50" width="80" />
 </a>
 <a href="https://www.youtube.com/@SulfurClient" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="second channel" height="80" width="80" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="second channel" height="50" width="80" />
 </a>
 </p>
 
