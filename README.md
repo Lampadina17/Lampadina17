@@ -19,13 +19,16 @@
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png" alt="cplusplus" width="50" height="50"/> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://www.shareicon.net/data/2016/07/10/119473_development_512x512.png" alt="nodejs" width="50" height="50"/> 
   </a>
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://image.pngaaa.com/138/619138-middle.png" alt="python" width="50" height="50"/> 
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" alt="java" width="50" height="50"/> 
-  </a> 
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="swift" width="50" height="50"/> 
+  </a>
 </p>
