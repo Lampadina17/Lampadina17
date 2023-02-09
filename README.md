@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Sulfur**, **Morpheus Project**, **CpuCores**
 - 🌱 I’m currently learning **Java Bytecode**, **IOS App Development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://discord.gg/discord.gg/aerXnBe" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="80" width="80" />
@@ -14,16 +14,16 @@
 </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">my youtube channels</h3>
 <a href="https://www.youtube.com/@Lampadina_17" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="first channel" height="50" width="80" />
+  <img align="center" src="https://yt3.googleusercontent.com/ytc/AL5GRJW4qswxkFxkkBTLH_WGYKidu1SDJMFkghiY_Kf18A=s88-c-k-c0x00ffffff-no-rj" alt="first channel" height="80" width="80" />
 </a>
 <a href="https://www.youtube.com/@SulfurClient" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="second channel" height="50" width="80" />
+  <img align="center" src="https://yt3.googleusercontent.com/ytc/AL5GRJXV4pNogjqCctQ9qh-AHAo3cEEhsSaHgOPTOk_nKw=s88-c-k-c0x00ffffff-no-rj" alt="second channel" height="80" width="80" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages/plaforms i use</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
