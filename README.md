@@ -11,4 +11,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="java" width="50" height="50"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" alt="java" width="50" height="50"/> </a> </p>
