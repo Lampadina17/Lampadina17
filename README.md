@@ -9,9 +9,6 @@
 <a href="https://discord.gg/discord.gg/aerXnBe" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="80" width="80" />
 </a>
-<a href="https://discord.gg/discord.gg/MtqdQjefx5" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/Morpheus.png" alt="discord.gg/MtqdQjefx5" height="80" width="80" />
-</a>
 </p>
 
 <h3 align="left">my youtube channels</h3>
