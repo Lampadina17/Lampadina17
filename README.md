@@ -42,4 +42,4 @@
   </a>
 </p>
 
-<a href="https://ko-fi.com/lampadina_17"> Optional donations are appreciated 🍕❤️</p>
+<a href="https://ko-fi.com/lampadina_17"> ❤️ Optional donations are appreciated 🍕</p>
