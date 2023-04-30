@@ -41,3 +41,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="swift" width="50" height="50"/> 
   </a>
 </p>
+
+<a href="https://ko-fi.com/lampadina_17"> Optional donations are appreciated 🍕❤️</p>
