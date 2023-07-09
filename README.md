@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Sulfur**, **Morpheus Project**, **CpuCores**
 - 🌱 I’m currently learning **Java Bytecode**, **IOS App Development**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Stay in touch!</h3>
 <p align="left">
 <a href="https://discord.gg/discord.gg/aerXnBe" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="80" width="80" />
