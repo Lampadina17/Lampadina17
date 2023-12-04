@@ -28,9 +28,6 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://www.shareicon.net/data/2016/07/10/119473_development_512x512.png" alt="nodejs" width="50" height="50"/> 
   </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
-  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" alt="java" width="50" height="50"/> 
   </a>
