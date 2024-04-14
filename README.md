@@ -26,7 +26,7 @@
     <img src="https://www.shareicon.net/data/2016/07/10/119473_development_512x512.png" alt="nodejs" width="50" height="50"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" alt="java" width="50" height="50"/> 
+    <img src="https://friconix.com/png/fi-cnsuxx-java.png" alt="java" width="50" height="50"/> 
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="swift" width="50" height="50"/> 
