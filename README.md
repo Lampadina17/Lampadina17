@@ -1,33 +1,83 @@
-<h1 align="left">Hi I'm Lampadina_17</h1>
-<h3 align="left">A passionate developer from Italy</h3>
+<h1 align="center">👋 Hi, I'm Lampadina_17</h1>
+<h3 align="center">Experienced Java Developer 🇮🇹 | Flutter Enthusiast</h3>
 
-- 🔭 I’m currently working on **Morpheus Launcher**, **Morpheus Lite**
-- 🌱 I’m currently learning **Java Bytecode**, **IOS App Development**, **Flutter**
+---
 
-<h3 align="left">Stay in touch!</h3>
+## 🚀 About Me
+I'm an **experienced Java developer** from Italy, passionate about software engineering, java reverse engineering and modern app development.
+
+I mainly work with **Java**, but I also develop cross-platform applications using **Flutter**.  
+I love experimenting with new technologies and building efficient, clean and scalable projects.
+
+---
+
+## 🔭 Current Projects
+- **Morpheus Launcher** – Advanced custom launcher  
+- **Morpheus Lite** – Custom lightweight minecraft legit client for PvP
+
+---
+
+## 🌱 Currently Learning
+- Java Bytecode and JVM internals
+- Flutter Desktop/Mobile development
+
+---
+
+## 🛠 I develop with
 <p align="left">
-<a href="https://discord.gg/discord.gg/aerXnBe" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/NoSkidPlusIcon.png" alt="discord.gg/aerXnBe" height="80" width="80" />
-</a>
-</p>
-
-<h3 align="left">my youtube channels</h3>
-<a href="https://www.youtube.com/@Lampadina_17" target="blank">
-  <img align="center" src="https://yt3.googleusercontent.com/ytc/AL5GRJW4qswxkFxkkBTLH_WGYKidu1SDJMFkghiY_Kf18A=s88-c-k-c0x00ffffff-no-rj" alt="first channel" height="80" width="80" />
-</a>
-</p>
-
-<h3 align="left">Languages/plaforms i use</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
-  </a> 
-  <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://www.shareicon.net/data/2016/07/10/119473_development_512x512.png" alt="nodejs" width="50" height="50"/> 
+  <a>
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="java" width="50" height="50"/> 
+  <a>
+    <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="48" height="48"/>
+  </a>
+  <a>
+    <img src="https://img.icons8.com/nolan/64/rust-programming-language--v1.png" alt="Rust" width="48" height="48"/>
+  </a>
+  <a>
+    <img src="https://img.icons8.com/nolan/64/html.png" alt="HTML" width="48" height="48"/>
+  </a>
+  <a>
+    <img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="CSS" width="48" height="48"/>
+  </a>
+  <a>
+    <img src="https://img.icons8.com/nolan/64/javascript.png" alt="JS" width="48" height="48"/>
+  </a>
+  <a href="https://arduino.cc/">
+    <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" width="48" height="48"/>
   </a>
 </p>
 
-<a href="https://ko-fi.com/lampadina_17"> ❤️ Optional donations are appreciated 🍕</a>
+---
+
+## 🌐 Join my discord server
+<p align="left">
+  <a href="https://discord.gg/aerXnBe" target="_blank">
+    <img src="https://raw.githubusercontent.com/Lampadina17/Lampadina17/main/morpheus.png" alt="Discord" width="70" height="70"/>
+  </a>
+</p>
+
+---
+
+## 📺 YouTube
+<p align="left">
+  <a href="https://www.youtube.com/@Lampadina_17" target="_blank">
+    <img src="https://yt3.googleusercontent.com/ytc/AL5GRJW4qswxkFxkkBTLH_WGYKidu1SDJMFkghiY_Kf18A=s88-c-k-c0x00ffffff-no-rj" alt="YouTube Channel" width="70" height="70"/>
+  </a>
+</p>
+
+---
+
+## ❤️ Support My Work
+If you like what I do and want to support development:
+
+- ☕ **Ko-fi**: https://ko-fi.com/lampadina_17  
+- 🎨 **Patreon**: https://www.patreon.com/c/Lampadina_17  
+
+Every support helps a lot 🍕🚀
+
+---
+
+<p align="center">
+  <i>Building software with passion and curiosity.</i>
+</p>
