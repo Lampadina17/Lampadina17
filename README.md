@@ -14,6 +14,7 @@ I love experimenting with new technologies and building efficient, clean and sca
 ## 🔭 Current Projects
 - **Morpheus Launcher** – Advanced custom launcher  
 - **Morpheus Lite** – Custom lightweight minecraft legit client for PvP
+- **Lapse.re** - Advanced bytecode virtualization for protecting intellectual property
 
 ---
 
